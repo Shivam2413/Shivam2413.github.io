@@ -24,6 +24,7 @@ body {
     color: black;
     min-height: 100vh;
     --theme : royalblue;
+  font-family : sans-serif;
 }
 nav {
   position: fixed;
